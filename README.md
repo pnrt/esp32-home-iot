@@ -41,7 +41,7 @@ This project is built using the Arduino IDE. You will need to install the follow
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+    git clone [https://github.com/pnrt/esp32-home-iot.git](https://github.com/pnrt/esp32-home-iot.git)
     ```
 2.  **Open the project** in the Arduino IDE.
 3.  **Update Credentials:** Open the `.ino` file and update the `USER CONFIGURATION` section at the top:
