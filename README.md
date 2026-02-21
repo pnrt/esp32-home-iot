@@ -10,6 +10,13 @@ To get the most out of this project, you can use my official companion app to se
 **Download the app from the Google Play Store:**
 👉 **[[Aur: Home IoT] on Google Play](https://play.google.com/store/apps/details?id=com.pankajkumarrout.homeiot)**
 
+<p align="left">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_1_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_2_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_3_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_4_01.png" width="150">
+</p>
+
 The app comes pre-configured to send the exact MQTT commands required to control the relay, toggle touch modes, and receive real-time temperature and humidity updates from the ESP32.
 
 ---
